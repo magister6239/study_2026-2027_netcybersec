@@ -1,10 +1,10 @@
 {
-  "name": "course-directory-student-template",
-  "version": "1.5.0",
-  "description": "Course Catalog Template for Students",
+  "name": "netcybersec",
+  "version": "1.0.0",
+  "description": "Защита сетей и кибербезопасность",
   "main": "index.js",
-  "repository": "git@github.com:yamadharma/course-directory-student-template.git",
-  "author": "Dmitry S. Kulyabov <yamadharma@gmail.com>",
+  "repository": "git@github.com:magister6239/study_2026-2027_netcybersec.git",
+  "author": "magister <magister6239@gmail.com>",
   "license": "CC-BY-4.0",
     "config": {
 	"commitizen": {
